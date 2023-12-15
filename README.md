@@ -7,6 +7,8 @@
 
 -   Utilize Microsoft Edge's powerful online text-to-speech service directly in your Java projects.
 
+## Requirements
+- JDK 21+
 ## How to Use
 
 ### 1. Get Microsoft Edge's Online Text-to-Speech Services
@@ -66,6 +68,6 @@ This code snippet demonstrates how to convert text to speech using Microsoft Edg
 Feel free to contribute, report issues, or explore additional functionalities!
 
 ## Thanks
-- 1.[rany2/edge-tts](https://github.com/rany2/edge-tts)
-- 2.[ChatGPT](https://chat.openai.com/)
-- 3.[tts-edge-java](https://github.com/WhiteMagic2014/tts-edge-java)
+- [rany2/edge-tts](https://github.com/rany2/edge-tts)
+- [ChatGPT](https://chat.openai.com/)
+- [tts-edge-java](https://github.com/WhiteMagic2014/tts-edge-java)
