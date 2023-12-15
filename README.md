@@ -68,3 +68,4 @@ Feel free to contribute, report issues, or explore additional functionalities!
 ## Thanks
 - 1.[rany2/edge-tts](https://github.com/rany2/edge-tts)
 - 2.[ChatGPT](https://chat.openai.com/)
+- 3.[tts-edge-java](https://github.com/WhiteMagic2014/tts-edge-java)
