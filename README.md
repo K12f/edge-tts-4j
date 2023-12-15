@@ -6,7 +6,7 @@
 ## Main Features
 
 -   Utilize Microsoft Edge's powerful online text-to-speech service directly in your Java projects.
-
+- More language supported
 ## Requirements
 - JDK 21+
 ## How to Use
