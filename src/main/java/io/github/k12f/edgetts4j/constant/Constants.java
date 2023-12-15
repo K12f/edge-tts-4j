@@ -14,13 +14,7 @@ public interface Constants {
 
     String BINARY_DELIM = "Path:audio\r\n";
 
-    /**
-     *
-     */
     String PATH_TURN_START_FLAG = "Path:turn.start";
     String PATH_AUDIO_METADATA_FLAG = "Path:audio.metadata";
     String PATH_TURN_END_FLAG = "Path:turn.end";
-
-    String SPEECH_LANG_REGEX = "\\w{2}-\\w{2}";
-
 }
