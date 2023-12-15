@@ -70,7 +70,12 @@ public class TTS2AudioSample {
 This code snippet demonstrates how to convert text to speech using Microsoft Edge's online text-to-speech service. Customize parameters such as volume, language, and text content according to your needs.
 ### 3.doc
 [support voice language](https://github.com/K12f/edge-tts-4j/blob/main/src/main/java/io/github/k12f/edgetts4j/enums/VoiceEnum.java)
+
+![language](./support_lang.png)
+
 [samples](https://github.com/K12f/edge-tts-4j/tree/main/src/main/java/io/github/k12f/edgetts4j/samples)
+
+
 Feel free to contribute, report issues, or explore additional functionalities!
 ## License
 [GPL](https://www.gnu.org/licenses/gpl-3.0.en.html)
