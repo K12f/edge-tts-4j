@@ -73,7 +73,7 @@ This code snippet demonstrates how to convert text to speech using Microsoft Edg
 [samples](https://github.com/K12f/edge-tts-4j/tree/main/src/main/java/io/github/k12f/edgetts4j/samples)
 Feel free to contribute, report issues, or explore additional functionalities!
 ## License
-GPL
+[GPL](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 ## Thanks
 - [rany2/edge-tts](https://github.com/rany2/edge-tts)
