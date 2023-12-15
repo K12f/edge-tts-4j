@@ -66,6 +66,8 @@ public class TTS2AudioSample {
 This code snippet demonstrates how to convert text to speech using Microsoft Edge's online text-to-speech service. Customize parameters such as volume, language, and text content according to your needs.
 
 Feel free to contribute, report issues, or explore additional functionalities!
+## License
+GPL
 
 ## Thanks
 - [rany2/edge-tts](https://github.com/rany2/edge-tts)
