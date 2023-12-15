@@ -10,8 +10,11 @@ public class TTS2AudioSample {
     public static void main(String[] args) {
         var facade = EdgeTTSFacade.newBuilder()
 //                .pitch(0)
+//                .pitch(PitchEnum.DEFAULT)
 //                .rate(0)
+//                .rate(RateEnum.DEFAULT)
                 .volume(100)
+//                .volume(VolumeEnum.LOUD)
                 .speech(VoiceEnum.ZH_CN_XIAOXIAONEURAL)
 //                .outFormat(OutFormatEnum.AUDIO_24KHZ_48KBITRATE_MONO_MP3)
                 .text("你可将此文本替换为所需的任何文本。你可在此文本框中编写或在此处粘贴你自己的文本。\n" +
