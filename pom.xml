@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>io.github.k12f.edgetts4j</groupId>
+    <groupId>io.github.k12f</groupId>
     <artifactId>edgetts4j</artifactId>
     <version>1.0.0-SNAPSHOT</version>
 
